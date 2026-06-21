@@ -1,14 +1,8 @@
-First-year computer-science engineering student at CESI Pau, France (≈ bachelor's level). It's an apprenticeship, so a good share of my time is actual industry work at Edenauto, not just classes.
+I build small offline **tools for things I personally need**. Most of them are put together with AI agents — the part I actually care about is making them produce something clean: framing the problem, the architecture, the context I feed the model, and the docs. I'm less interested in getting AI to spit out code than in doing **AI-assisted development properly**. Structured, documented, reproducible.
+
+First-year computer-science engineering student at CESI Pau, France (≈ bachelor's level). It's an **apprenticeship**, so a good share of my time is actual industry work at Edenauto, not just classes — and when my team got access to Claude there, I read the documentation, wrote an internal developer guide, and ran a session to get my colleagues started.
 
 **Planning to do my mandatory mid-2027 Erasmus in Lund. I'd love to be a research assistant at LTH.**
-
----
-
-I build small offline tools for things I personally need, then move on. Most of them are put together with AI agents.
-
-My real work is the part that makes them produce something clean: framing the problem, the architecture, the context I feed the model, and the docs. I'm less interested in getting AI to spit out code than in doing AI-assisted development properly. Structured, documented, reproducible.
-
-When my team got access to Claude at work, I read the documentation, wrote an internal developer guide, and ran a session to get my colleagues started.
 
 ## A few things I've built
 

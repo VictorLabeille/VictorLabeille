@@ -1,6 +1,6 @@
-I build small offline **tools for things I personally need**. Most of them are put together with AI agents — the part I actually care about is making them produce something clean: framing the problem, the architecture, the context I feed the model, and the docs. I'm less interested in getting AI to spit out code than in doing **AI-assisted development properly**. Structured, documented, reproducible.
+I build small offline **tools for things I personally need**, mostly with AI agents. What I care about isn't getting AI to spit out code, it's doing it properly: framing the problem, the architecture, the context I feed the model, the docs. **Structured, documented, reproducible.**
 
-First-year computer-science engineering student at CESI Pau, France (≈ bachelor's level). It's an **apprenticeship**, so a good share of my time is actual industry work at Edenauto, not just classes — and when my team got access to Claude there, I read the documentation, wrote an internal developer guide, and ran a session to get my colleagues started.
+Computer-engineering student at CESI Pau, France, in my third year of a 5-year master's-level program (the French Diplôme d'Ingénieur). It's an **apprenticeship**, so a good share of my time is real industry work at Edenauto. When my team got access to Claude, I read the docs, wrote an internal developer guide, and ran a session to get my colleagues started.
 
 **Planning to do my mandatory mid-2027 Erasmus in Lund. I'd love to be a research assistant at LTH.**
 
